@@ -1,0 +1,26 @@
+$primary: #B58900;
+
+
+.center {
+    text-align: center;
+}
+
+.inline {
+    display: inline;
+}
+
+#main-nav {
+    margin-bottom: 10vh;
+}
+
+#main-search {
+    margin-top: 7vh;
+
+    input {
+        width: 40vw;
+    }
+}
+
+.main-icon {
+    color: $primary;
+}
